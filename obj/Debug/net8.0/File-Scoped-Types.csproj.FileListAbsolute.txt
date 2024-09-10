@@ -1,0 +1,14 @@
+C:\Users\borakasmer\source\repos\File-Scoped-Types\obj\Debug\net8.0\File-Scoped-Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borakasmer\source\repos\File-Scoped-Types\obj\Debug\net8.0\File-Scoped-Types.AssemblyInfoInputs.cache
+C:\Users\borakasmer\source\repos\File-Scoped-Types\obj\Debug\net8.0\File-Scoped-Types.AssemblyInfo.cs
+C:\Users\borakasmer\source\repos\File-Scoped-Types\obj\Debug\net8.0\File-Scoped-Types.csproj.CoreCompileInputs.cache
+C:\Users\borakasmer\source\repos\File-Scoped-Types\bin\Debug\net8.0\File-Scoped-Types.exe
+C:\Users\borakasmer\source\repos\File-Scoped-Types\bin\Debug\net8.0\File-Scoped-Types.deps.json
+C:\Users\borakasmer\source\repos\File-Scoped-Types\bin\Debug\net8.0\File-Scoped-Types.runtimeconfig.json
+C:\Users\borakasmer\source\repos\File-Scoped-Types\bin\Debug\net8.0\File-Scoped-Types.dll
+C:\Users\borakasmer\source\repos\File-Scoped-Types\bin\Debug\net8.0\File-Scoped-Types.pdb
+C:\Users\borakasmer\source\repos\File-Scoped-Types\obj\Debug\net8.0\File-Scoped-Types.dll
+C:\Users\borakasmer\source\repos\File-Scoped-Types\obj\Debug\net8.0\refint\File-Scoped-Types.dll
+C:\Users\borakasmer\source\repos\File-Scoped-Types\obj\Debug\net8.0\File-Scoped-Types.pdb
+C:\Users\borakasmer\source\repos\File-Scoped-Types\obj\Debug\net8.0\File-Scoped-Types.genruntimeconfig.cache
+C:\Users\borakasmer\source\repos\File-Scoped-Types\obj\Debug\net8.0\ref\File-Scoped-Types.dll
